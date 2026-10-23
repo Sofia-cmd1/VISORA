@@ -120,7 +120,6 @@ No modo Câmara não existe máscara de referência, por isso só estão dispon�
 
 ## Limitações
 
-- **Ferramenta de apoio.** A VISORA não substitui um inspetor certificado nem um processo de validação formal para uso em serviço.
 - **Âmbito dos dados.** O modelo foi treinado com imagens de pás do AeBAD. O desempenho noutros tipos de peça, câmaras ou condições de iluminação não foi avaliado.
 - **Limiar e veredicto.** O mapa de anomalias é normalizado por imagem e o veredicto depende do limiar de píxel escolhido, pelo que a calibração do limiar influencia diretamente os falsos positivos e os falsos negativos.
 - **Métricas otimistas na demonstração.** No modo automático, quando existe máscara de referência, o limiar é calibrado com essa mesma máscara. As métricas assim obtidas servem para demonstrar o sistema e não são uma avaliação independente do desempenho.
