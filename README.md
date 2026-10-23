@@ -136,18 +136,4 @@ No modo Câmara não existe máscara de referência, por isso só estão dispon�
 
 **Mentores:** Leandro Leite, Miguel Amador e Yusbel Castilla.
 
-A equipa agradece aos mentores do Hack4Guimarães 2035 pela disponibilidade, pelo acompanhamento e pelos contributos ao longo do hackathon.
-
-## Recursos de terceiros e referências
-
-Este projeto usa recursos de terceiros, que mantêm os direitos e as licenças dos respetivos autores:
-
-- **Dinomaly**: J. Guo, S. Lu, W. Zhang, F. Chen, H. Li e H. Liao, *Dinomaly: The Less Is More Philosophy in Multi-Class Unsupervised Anomaly Detection*, CVPR 2025, pp. 20405–20415. [Código oficial](https://github.com/guojiajeremy/Dinomaly).
-- **AeBAD / MMR**: Z. Zhang, Z. Zhao, X. Zhang, C. Sun e X. Chen, *Industrial anomaly detection with domain shift: A real-world dataset and masked multi-scale reconstruction*, Computers in Industry, vol. 151, art. 103990, 2023. [Repositório](https://github.com/zhangzilongc/MMR).
-- **Anomalib**: [github.com/open-edge-platform/anomalib](https://github.com/open-edge-platform/anomalib).
-- **PyTorch**: A. Paszke et al., *PyTorch: An imperative style, high-performance deep learning library*, NeurIPS 2019.
-- **ResNet** (base do classificador por transfer learning): K. He, X. Zhang, S. Ren e J. Sun, *Deep residual learning for image recognition*, CVPR 2016.
-- **Transfer learning**: S. Chilamkurthy, [*Transfer Learning for Computer Vision Tutorial*](https://docs.pytorch.org/tutorials/beginner/transfer_learning_tutorial.html), PyTorch Tutorials.
-- **Bibliotecas de código aberto**: Streamlit, OpenCV, NumPy, Pillow, scikit-learn e ReportLab.
-
 A documentação completa dos recursos usados e da distinção entre o trabalho da equipa e os recursos de terceiros está na Declaração de Originalidade entregue no hackathon.
